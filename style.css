@@ -1,0 +1,16 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+.bg{
+    
+}
+
+.popup{
+    width: 380px;
+    height: 200px;
+    background-color: white;
+    border: 1px solid black;
+}
